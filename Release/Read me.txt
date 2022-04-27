@@ -1,0 +1,14 @@
+Copy not for redistribution
+--------------------------------------------------------------------------------
+Controls:
+Movement - WASD
+Sprint - Shift
+Jump - Space
+Spectore Shift - E
+Grapple - Left/Right Mouse Buttons
+Menu - Escape
+
+Goal:
+Teleport through all enemy pills to win
+Do not teleport below the ground or you'll die
+Have fun
